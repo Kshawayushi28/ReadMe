@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kshawayushi28
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Frontend Development and DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...Consistency is not my key
 
